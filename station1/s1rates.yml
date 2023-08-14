@@ -1,1 +1,4 @@
 greeting: hello
+rate: 50
+lanecount: 5
+tollstart: 10
